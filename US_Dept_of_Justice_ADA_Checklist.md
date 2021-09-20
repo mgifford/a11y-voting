@@ -1,12 +1,12 @@
-# ADA Checklist for Polling Places 2016   
-
+# ADA Checklist for Polling Places 2016
+[[Original URL]](https://www.ada.gov/votingchecklist.htm)
   
 
 **U.S. Department of Justice  
 **Civil Rights Division  
 _Disability Rights Section_  
 
-![Department of Justice seal](images/jsealbw58.gif)
+![Department of Justice seal](https://www.ada.gov/images/jsealbw58.gif)
 
 Americans with Disabilities Act
 ===============================
@@ -62,7 +62,7 @@ People with disabilities must have the opportunity to be full participants in an
 
 The ADA’s regulations and the ADA Standards for Accessible Design set out what makes a facility accessible and should be used to determine the accessibility of any facility being considered for use as a polling place. This publication, the ADA Checklist for Polling Places (2016 Checklist), provides guidance to election officials for determining whether a polling place already has the basic accessibility features needed by most voters with disabilities or can be made accessible on Election Day using temporary solutions to remove barriers. The updated Checklist includes provisions from the 2010 ADA Standards for Accessible Design (“2010 Standards”).[3](#_ftn3) Any alterations made to a polling place must comply with the 2010 Standards.
 
-![a voter with a disability casting his ballot](polling_places/images/Voter-with-Service-Animal.jpg)
+![a voter with a disability casting his ballot](https://www.ada.gov/polling_places/images/Voter-with-Service-Animal.jpg)
 
 A voter with a disability casting his ballot
 
@@ -78,7 +78,7 @@ The 2016 Checklist and other Justice Department publications, as well as the tit
 
 The 2016 Checklist, found in Part 3 of this document, is designed to assist officials in determining whether a facility being considered for use as a polling place is accessible to people with mobility or vision disabilities, and, if not, whether modifications can be made to ensure accessibility or relocation to another accessible facility will be necessary. The 2016 Checklist should be used to evaluate whether both new and existing polling places. Completing the 2016 Checklist will provide guidance on whether a facility is accessible for voters with disabilities, and how to identify and remedy any barriers that exist.
 
-![Accessible polling place](polling_places/images/Building-Entrance.jpg)
+![Accessible polling place](https://www.ada.gov/polling_places/images/Building-Entrance.jpg)
 
 Accessible polling place
 
@@ -94,7 +94,7 @@ An evaluation of polling place accessibility focuses on those areas of a facilit
 
 If parking is provided for voters, accessible parking must be provided for people with disabilities. An accessible space is composed of three elements: the parking space, an access aisle adjacent to the space that is wide enough to allow voters with a mobility disability to get out of their car or van, and signage designating it as an accessible space. The 2010 Standards require one accessible parking space per 25 parking spaces provided (up to the first 100 spaces). One of six (or fraction of six) accessible parking spaces, but always at least one, must be van accessible. Generally, the access aisle must be at least 60 inches wide for cars and 96 inches wide for vans. Van accessible spaces can also have an access aisle at least 60 inches wide if the width of the van parking space is at least 132 inches. A sign, with the International Symbol of Accessibility, must mark each accessible parking space. Van accessible spaces must be designated as such on the sign at these spaces. Accessible parking spaces and the access aisles serving them must be on a surface that is stable, firm, and slip resistant (e.g., clear of gravel or mud) without wide cracks or broken pavement and located on the closest accessible route to the accessible entrance. The accessible parking spaces and access aisles must also be level to allow a safe transfer from the car to a person's wheelchair. (See Part 2 of this document for tips on measuring slopes and cross slopes.)
 
-![A van accessible parking space and a car parking space share an access aisle](polling_places/images/shared-van-car-space.jpg)
+![A van accessible parking space and a car parking space share an access aisle](https://www.ada.gov/polling_places/images/shared-van-car-space.jpg)
 
 A van accessible parking space and a car parking space share an access aisle
 
@@ -122,7 +122,7 @@ Parking requirements are in Section A of the 2016 Checklist found in Part 3 of t
 
 **Solution**: Find a relatively level parking area near the accessible entrance to the voting area and then designate the area for accessible parking spaces and adjacent access aisles. Traffic cones or other temporary elements may be used to mark the spaces and access aisles. Provide a temporary sign for each accessible parking space and make sure the access aisle of each space is connected to the accessible route to the accessible entrance.
 
-![Three standard parking spaces are converted into a van accessible parking space with an access aisle.  Cones mark and block off the access aisle and a temporary curb ramp with edge protection connects to an accessible route to the polling place](polling_places/images/Temp-Mod-entrance.jpg)
+![Three standard parking spaces are converted into a van accessible parking space with an access aisle.  Cones mark and block off the access aisle and a temporary curb ramp with edge protection connects to an accessible route to the polling place](https://www.ada.gov/polling_places/images/Temp-Mod-entrance.jpg)
 
 Three standard parking spaces are converted into a van accessible parking space with an access aisle. Cones mark and block off the access aisle and a temporary curb ramp with edge protection connects to an accessible route to the polling place.
 
@@ -132,7 +132,7 @@ Some voters with disabilities will be driven to the polling place and dropped of
 
 Passenger drop-off area requirements are in Section B of the 2016 Checklist found in Part 3 of this document.
 
-![Accessible passenger drop-off and loading area](polling_places/images/Passenger-Loading-Zone.jpg)
+![Accessible passenger drop-off and loading area](https://www.ada.gov/polling_places/images/Passenger-Loading-Zone.jpg)
 
 Accessible passenger drop-off and loading area
 
@@ -145,7 +145,7 @@ walking or who use wheelchairs or other mobility devices to get into the polling
 
 Route requirements are in Sections C and E of the 2016 Checklist found in Part 3 of this document.
 
-![Accessible routes to and within the polling place](polling_places/images/Polling-Place-Overview.jpg)
+![Accessible routes to and within the polling place](https://www.ada.gov/polling_places/images/Polling-Place-Overview.jpg)
 
 Accessible routes to and within the polling place
 
@@ -175,7 +175,7 @@ If any part of the accessible route - exterior or interior - has a slope greater
 
 In the past, at some polling places where one or more steps were present, officials or other voters have carried people using wheelchairs up the steps. This practice is not only dangerous for the person being carried, but also for those lifting the wheelchair. It is also degrading to the person using a wheelchair and does not provide independent access. Carrying should never be used as an alternative to providing an accessible way to enter a polling place (or other facility).
 
-![A portable ramp with edge protection and handrails is placed over stairs to provide an accessible route on Election Day](polling_places/images/Portable-Ramp.jpg)
+![A portable ramp with edge protection and handrails is placed over stairs to provide an accessible route on Election Day](https://www.ada.gov/polling_places/images/Portable-Ramp.jpg)
 
 A portable ramp with edge protection and handrails is placed over stairs to provide an accessible route on Election Day.
 
@@ -194,7 +194,7 @@ When people who are blind or who have vision loss use a cane to detect hazards, 
 
 Protruding objects are found outdoors on sidewalks and walkways, and indoors in lobby areas, hallways, or voting areas. Because people who are blind or have vision loss may walk on any circulation path, not just the accessible routes, all routes serving or leading to the voting area must be checked for protruding objects.
 
-![Signs or other objects in the pedestrian route can be a hazard if the bottom is more than 27 inches but less than 80 inches above the route. Objects that overhang the pedestrian route must be at least 80 inches above the route](polling_places/images/Wall-Mounted-Objects1.jpg)
+![Signs or other objects in the pedestrian route can be a hazard if the bottom is more than 27 inches but less than 80 inches above the route. Objects that overhang the pedestrian route must be at least 80 inches above the route](https://www.ada.gov/polling_places/images/Wall-Mounted-Objects1.jpg)
 
 Signs or other objects in the pedestrian route can be a hazard if the bottom is more than 27 inches but less than 80 inches above the route. Objects that overhang the pedestrian route must be at least 80 inches above the route.
 
@@ -216,7 +216,7 @@ Protruding object requirements are in Sections C, E, and F of the 2016 Checklist
 
 **Solution**: Provide a detectable fence or other object so voters cannot walk under the stairs.
 
-![When the underside of a set of stairs is open, it is a hazard to people who are blind or have low vision. Enclosing the area below the stair or installing a cane-detectable barrier helps the person to stop before hitting her head](polling_places/images/Open-Stair-Underneath.jpg)
+![When the underside of a set of stairs is open, it is a hazard to people who are blind or have low vision. Enclosing the area below the stair or installing a cane-detectable barrier helps the person to stop before hitting her head](https://www.ada.gov/polling_places/images/Open-Stair-Underneath.jpg)
 
 When the underside of a set of stairs is open, it is a hazard to people who are blind or have low vision. Enclosing the area below the stair or installing a cane-detectable barrier helps the person to stop before hitting her head.
 
@@ -233,7 +233,7 @@ Problems Involving the Building Entrance**
 
 **Solution**: If another entrance is accessible and on an accessible route from parking, passenger drop-off sites, or public transportation stops, designate it as the accessible entrance. If the main entrance is not accessible, install a directional sign at the main entrance directing voters with disabilities to the accessible entrance. Keep the accessible entrance unlocked during all voting hours. If another accessible entrance is not available, install a temporary ramp at the main entrance.
 
-![Accessible entrance to polling place with signs directing voters to the accessible entrance](polling_places/images/Acc-Entrance.jpg)
+![Accessible entrance to polling place with signs directing voters to the accessible entrance](https://www.ada.gov/polling_places/images/Acc-Entrance.jpg)
 
 Accessible entrance to polling place with signs directing voters to the accessible entrance
 
@@ -249,7 +249,7 @@ Accessible entrance to polling place with signs directing voters to the accessib
 
 **Solution**: There are four typical solutions: add an accessible pull or handle and leave the door unlatched; install fully accessible door hardware; leave the door propped open; or provide a temporary doorbell to notify officials that the door needs to be opened in a timely manner.
 
-![Examples of accessible door hardware](polling_places/images/Accessible-Handles.jpg)
+![Examples of accessible door hardware](https://www.ada.gov/polling_places/images/Accessible-Handles.jpg)
 
 Examples of accessible door hardware
 
@@ -273,7 +273,7 @@ The accessible voting area must have an accessible entrance and adequate circula
 
 Voting area requirements are in Section F of the 2016 Checklist found in Part 3 of this document.
 
-![An accessible route connects the building entrance with the voting area, including voter check-in and voting stations](polling_places/images/Voting-Area.jpg)
+![An accessible route connects the building entrance with the voting area, including voter check-in and voting stations](https://www.ada.gov/polling_places/images/Voting-Area.jpg)
 
 An accessible route connects the building entrance with the voting area, including voter check-in and voting stations
 
@@ -317,13 +317,13 @@ The amount of slope or grade is described as the proportion of a vertical rise t
 The easiest way to measure slope is to use a digital level. The digital display gives a reading that may be shown as a ratio, percent, or degree. Calibrate the digital level before each use.
 
 ![A digital level that can be used
-with measurements in degrees, percentages, or ratios](polling_places/images/digital-level-gs.jpg)
+with measurements in degrees, percentages, or ratios](https://www.ada.gov/polling_places/images/digital-level-gs.jpg)
 
 A digital level that can be used with measurements in degrees, percentages, or ratios
 
 Another way to measure slope is to use a 24 inch level with leveling bubbles and a tape measure. Place the level on the sloped surface in the direction you wish to measure. Rest one end of the level at the highest point of the sloped surface and lift the other end (see image) until the bubble is in the middle of the tube. This is the "level" position. While the level is in this position, measure the distance between the bottom end of the level and the sloped surface below. If the distance is two inches or less, then the slope is 1:12 or less. When the distance is more than two inches, record the distance on the checklist so the exact slope can be calculated later. For measuring cross slope, if the distance measured from the level position is 1/2 inch or less then the slope is 1:48 or less.
 
-![Measuring slope using a 24 inch bubble level and tape measure](polling_places/images/measureingslope.jpg)
+![Measuring slope using a 24 inch bubble level and tape measure](https://www.ada.gov/polling_places/images/measureingslope.jpg)
 
 Measuring slope using a 24 inch bubble level and tape measure
 
@@ -332,14 +332,14 @@ Measuring slope using a 24 inch bubble level and tape measure
 A tape measure is used to measure the length, width, height, and depth of various elements including parking spaces and access aisles, routes, thresholds, doorways, and protruding objects.
 
 ![Using a tape measure to measure
-the width of a parking space](polling_places/images/measure-parking.jpg)
+the width of a parking space](https://www.ada.gov/polling_places/images/measure-parking.jpg)
 
 Using a tape measure to measure the width of a parking space
 
 **Measuring Door Openings**  
 Special care is needed when measuring the clear opening of a doorway. To measure the clear opening of a standard hinged door, open the door to 90 degrees. Measure the clear door opening from the edge of the doorstop to the edge of the door (not to the door jamb). This measures the clear width of the door opening through which people pass, which is less than the width of the door itself. Door handles and push bars should not be included in the measurements of door opening widths.
 
-![Measuring the clear door opening](polling_places/images/measuredoorway.jpg)
+![Measuring the clear door opening](https://www.ada.gov/polling_places/images/measuredoorway.jpg)
 
 Measuring the clear door opening
 
@@ -356,58 +356,58 @@ Many accessibility barriers at polling places can be removed with temporary reme
 
 **Traffic Cones**
 
-![Traffic cones can be used to mark parking spaces, access aisles and passenger loading zones, to hold parking signs, and to warn of protruding objects](polling_places/images/Traffic-cone.jpg)
+![Traffic cones can be used to mark parking spaces, access aisles and passenger loading zones, to hold parking signs, and to warn of protruding objects](https://www.ada.gov/polling_places/images/Traffic-cone.jpg)
 
 Traffic cones can be used to mark parking spaces, access aisles and passenger loading zones, to hold parking signs, and to warn of protruding objects.
 
 **Parking Signs**
 
-![Accessible parking signs should be used to designate accessible parking locations](polling_places/images/Parking-sign2.jpg)
+![Accessible parking signs should be used to designate accessible parking locations](https://www.ada.gov/polling_places/images/Parking-sign2.jpg)
 
 Accessible parking signs should be used to designate accessible parking locations.
 
 **Van Parking Sign**
 
-![Van accessible parking signs should be used to designate van accessible parking locations](polling_places/images/Van-signage2.jpg)
+![Van accessible parking signs should be used to designate van accessible parking locations](https://www.ada.gov/polling_places/images/Van-signage2.jpg)
 
 Van accessible parking signs should be used to designate van accessible parking locations.
 
 **Directional Signs**
 
-![Directional signage should be used to show direction to the accessible route, accessible entrance, and voting area](polling_places/images/Directional-signage.jpg)
+![Directional signage should be used to show direction to the accessible route, accessible entrance, and voting area](https://www.ada.gov/polling_places/images/Directional-signage.jpg)
 
 Directional signage should be used to show direction to the accessible route, accessible entrance, and voting area.
 
 **Portable ramp -  
 step 6 inches or less**
 
-![Portable ramps without handrails can only be used for heights six inches or less  and can provide access at a curb or low step.  Portable ramps also can be placed flat to cover holes or gaps in a sidewalk](polling_places/images/Portable-ramp-at-step.jpg)
+![Portable ramps without handrails can only be used for heights six inches or less  and can provide access at a curb or low step.  Portable ramps also can be placed flat to cover holes or gaps in a sidewalk](https://www.ada.gov/polling_places/images/Portable-ramp-at-step.jpg)
 
 Portable ramps without handrails can only be used for heights six inches or less and can provide access at a curb or low step. Portable ramps also can be placed flat to cover holes or gaps in a sidewalk.
 
 **Portable ramp -  
 greater than six inch step**
 
-![Portable ramps with handrails must be used for heights greater than six inches to provide access over steps. For ramps greater than six inches high,  temporary edge protection such as a pipe or piece of wood can be attached with ties or twine to the edges of the ramp.  Edge protection must run the entire length of the ramp](polling_places/images/Portable-ramp-at-steps.jpg)
+![Portable ramps with handrails must be used for heights greater than six inches to provide access over steps. For ramps greater than six inches high,  temporary edge protection such as a pipe or piece of wood can be attached with ties or twine to the edges of the ramp.  Edge protection must run the entire length of the ramp](https://www.ada.gov/polling_places/images/Portable-ramp-at-steps.jpg)
 
 Portable ramps with handrails must be used for heights greater than six inches to provide access over steps. For ramps greater than six inches high, temporary edge protection such as a pipe or piece of wood can be attached with ties or twine to the edges of the ramp. Edge protection must run the entire length of the ramp.
 
 **Wedges**
 
-![Wedges can provide access at thresholds and slight changes in level](polling_places/images/Wedge.jpg)
+![Wedges can provide access at thresholds and slight changes in level](https://www.ada.gov/polling_places/images/Wedge.jpg)
 
 Wedges can provide access at thresholds and slight changes in level.
 
 **Door stop**
 
 ![Door stops can be used to prop open a door if
-the door handle is inaccessible, or if there is an inadequate maneuvering clearance for a person using a wheelchair or other mobility device to open the door](polling_places/images/Door-stop.jpg)
+the door handle is inaccessible, or if there is an inadequate maneuvering clearance for a person using a wheelchair or other mobility device to open the door](https://www.ada.gov/polling_places/images/Door-stop.jpg)
 
 Door stops can be used to prop open a door if the door handle is inaccessible, or if there is an inadequate maneuvering clearance for a person using a wheelchair or other mobility device to open the door.
 
 **Remove post (increase clear width at double leaf doors)**
 
-![Remove center  post between doors if the post is bolted to the door frame to provide a 32 inch clear opening or to  allow double doors to be propped open](polling_places/images/Astragal.jpg)
+![Remove center  post between doors if the post is bolted to the door frame to provide a 32 inch clear opening or to  allow double doors to be propped open](https://www.ada.gov/polling_places/images/Astragal.jpg)
 
 Remove center post between doors if the post is bolted to the door frame to provide a 32 inch clear opening or to allow double doors to be propped open.
 
