@@ -1,5 +1,5 @@
 # ADA Checklist for Polling Places 2016
-[[Original URL]](https://www.ada.gov/votingchecklist.htm)
+[[[Original URL]](https://www.ada.gov/votingchecklist.htm)
   
 
 **U.S. Department of Justice  
